@@ -4,4 +4,4 @@ This repository will house information related to access, installation, and main
 
 # Maintainer Note
 
-This exports pretty cleanly from Roam Research markdown export, except for code blocks. All you need to do is indent those code blocks to be at a greater indentation level than their parent list items.
+The wiki exports pretty cleanly from Roam Research markdown export, except for code blocks and TODOs. All you need to do is indent those code blocks to be at a greater indentation level than their parent list items, and replace `{{[[TODO]]}}` with `[ ]`
