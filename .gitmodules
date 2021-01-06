@@ -1,0 +1,3 @@
+[submodule "TAS-LTS.wiki"]
+	path = TAS-LTS.wiki
+	url = git@github.com:/pivotal-cf/TAS-LTS.wiki.git
